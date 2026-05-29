@@ -24,6 +24,13 @@
 			my other website
 		</a>
 		<br />
+		<a
+			href="https://github.com/sudoFahh"
+			class="underline text-gray-300 hover:text-white transition-colors duration-200"
+		>
+			my github
+		</a>
+		<br />
 
 		<a
 			href="https://www.instagram.com/m4shing_sm4shing/"
