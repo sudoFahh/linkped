@@ -49,7 +49,7 @@
 		<br />
 
 		<a
-			href="https://open.spotify.com/user/314h2zmbqq7xslmvyzmstrhhf4ba?si=0b9e5c8a1f2b4c8e"
+			href="https://open.spotify.com/user/314h2zmbqq7xslmvyzmstrhhf4ba"
 			class="underline text-gray-300 hover:text-white transition-colors duration-200"
 		>
 			my spotify
