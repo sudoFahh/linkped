@@ -33,7 +33,7 @@
 		<br />
 
 		<a
-			href="https://www.instagram.com/m4shing_sm4shing/"
+			href="https://www.instagram.com/m4n1k.sh/"
 			class="underline text-gray-300 hover:text-white transition-colors duration-200"
 		>
 			my instagram
