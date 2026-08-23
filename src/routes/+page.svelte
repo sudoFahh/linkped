@@ -25,7 +25,7 @@
 		</a>
 		<br />
 		<a
-			href="https://github.com/sudoFahh"
+			href="https://github.com/codewizardmanik"
 			class="underline text-gray-300 hover:text-white transition-colors duration-200"
 		>
 			my github
@@ -41,7 +41,7 @@
 		<br />
 
 		<a
-			href="https://www.youtube.com/@m4shing_sm4shing"
+			href="https://www.youtube.com/@codewizardmanik"
 			class="underline text-gray-300 hover:text-white transition-colors duration-200"
 		>
 			my youtube
